@@ -1,0 +1,24 @@
+= License File
+Glen Ritchie
+v1.0, December 2022
+:toc:
+:homepage: https://gcdr.github.io/
+
+== Terms of Copyright
+
+* **Use & Ownership only allowed, to Glen Ritchie**
+* **No sharing, commercial, non-commercial, or duplication use allowed**
+* **Date: Dec-14, 2022**
+
+* **This is fully copyrighted, property of Glen Ritchie (c) 2022**
+* **All Patents and Intellectual Property retained by Glen Ritchie**
+* **Authorized only for Glen Ritchie use & access**
+
+== Property of:
+
+```
+  _____ __             _____     ___   _  __        __    _
+ / ___// /___  ___    / ___/    / _ \ (_)/ /_ ____ / /   (_)___
+/ (_ // // -_)/ _ \  / /__ _   / , _// // __// __// _ \ / // -_)
+\___//_/ \__//_//_/  \___/(_) /_/|_|/_/ \__/ \__//_//_//_/ \__/
+```
