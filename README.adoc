@@ -1,1 +1,25 @@
-# reps
+= Reps Repository
+Glen Ritchie
+v1.0, December 2022
+:toc:
+
+== Introduction:
+
+* _Sample repository for Ideas & Notes_
+
+=== Statistics:
+
+* Repository Started: Dec 2022 - ..
+* Base Name: documents
+
+=== License:
+
+* Owned by Glen Ritchie, (c) 2022 - ..
+
+## Who do I talk to?
+
+* The hand!
+
+## Why Support Open Source?
+
+* _If I have to tell you this? Why are you here._
