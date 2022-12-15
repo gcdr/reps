@@ -1,10 +1,10 @@
-= License File
+# License File
 Glen Ritchie
 v1.0, December 2022
 :toc:
 :homepage: https://gcdr.github.io/
 
-== Terms of Copyright
+## Terms of Copyright
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
